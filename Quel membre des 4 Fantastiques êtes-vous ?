@@ -20,7 +20,7 @@
     }
 
     .question {
-      background-color: #7FDBFF;
+      background-color: #1f3d7a;
       color: #000;
       padding: 20px;
       margin: 20px auto;
@@ -30,7 +30,7 @@
     }
 
     .options button {
-      background-color: #0074D9;
+      background-color: #4f83ff;
       color: white;
       border: none;
       padding: 10px 20px;
